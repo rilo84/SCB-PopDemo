@@ -1,7 +1,7 @@
 # SCB API Population Demo
 A demo Dash app which uses SCB API to pull stats about population in swedish regions.
 
-<img src="https://github.com/rilo84/SCB-PopDemo/blob/master/DashDemo.PNG" width="350" title="hover text">
+<img src="https://github.com/rilo84/SCB-PopDemo/blob/master/DashDemo.PNG" width="800" title="hover text">
 
 <h3>Usage</h3>
 Download the files and run DashSCBDemo.py in your python 3 console.
