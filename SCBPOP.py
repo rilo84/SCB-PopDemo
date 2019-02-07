@@ -1,6 +1,5 @@
 #Created by Richard Lo Sinno
 import requests
-import pandas as pd
 
 class SCB:
 
